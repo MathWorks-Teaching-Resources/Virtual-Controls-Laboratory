@@ -15,34 +15,36 @@ Get started with the Virtual Controls Laboratory by downloading and unzipping th
     <td width=290>
         <b>Cruise control</b>
         <br><code>CruiseControl.slx</code>
-        <img src = "./SupportingFiles/gifs/vehiclecover.png" alt="Vehicle animation" width=250>
+        <img src = "https://user-images.githubusercontent.com/81383420/135468977-9997703d-dcb7-4205-a0f6-57da20d440bc.png" alt="Vehicle animation" width=250>
     </td>
     <td width=290>
         <b>DC motor</b>
         <br><code>DCMotorControl.slx</code>
-        <img src = "./SupportingFiles/gifs/dcmotor.gif" alt="DC motor animation" width=250>
+        <img src = "https://user-images.githubusercontent.com/81383420/135469070-bef749d0-db3f-45c1-a10c-61fb1951478b.gif" alt="DC motor animation" width=250>
     </td>
     <td width=290>
         <b>Inverted pendulum</b>
         <br><code>InvertedPendulum.slx</code>
-        <img src = "./SupportingFiles/gifs/invertedpendulum.gif" alt="Inverted pendulum animation" width=250>
+        <img src = "https://user-images.githubusercontent.com/81383420/135469179-83a5ef18-c835-4587-bd24-4790a400c451.gif" alt="Inverted pendulum animation" width=250>
     </td>
 </tr>
+</table>
+<table>
 <tr>
     <td width=290>
         <b>Rotary pendulum</b>
         <br><code>RotaryPendulum.slx</code>
-        <img src = "./SupportingFiles/gifs/rotarypendulum.gif" alt="Rotary pendulum animation" width=250>
+        <img src = "https://user-images.githubusercontent.com/81383420/135469297-fe90de7f-ac09-43c7-854d-993e829ed3e4.gif" alt="Rotary pendulum animation" width=250>
     </td>
     <td width=290>
         <b>Ball and beam</b>
         <br><code>BallAndBeam.slx</code>
-        <img src = "./SupportingFiles/gifs/ballbeam.gif" alt="Ball and beam animation" width=250>
+        <img src = "https://user-images.githubusercontent.com/81383420/135469426-d2d3555c-aa73-464c-8794-73f584640081.gif" alt="Ball and beam animation" width=250>
     </td>
     <td width=290>
         <b>Ball and plate</b>
         <br><code>BallAndPlate.slx</code>
-        <img src = "./SupportingFiles/gifs/ballplate.gif" alt="Ball and plate animation" width=250>
+        <img src = "https://user-images.githubusercontent.com/81383420/135469526-50bd5094-1306-4902-a056-e2a38752b2f0.gif" alt="Ball and plate animation" width=250>        
     </td>
 </tr>
 </table>
