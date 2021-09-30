@@ -28,6 +28,8 @@ Get started with the Virtual Controls Laboratory by downloading and unzipping th
         <img src = "https://user-images.githubusercontent.com/81383420/135469179-83a5ef18-c835-4587-bd24-4790a400c451.gif" alt="Inverted pendulum animation" width=250>
     </td>
 </tr>
+</table>
+<table>
 <tr>
     <td width=290>
         <b>Rotary pendulum</b>
