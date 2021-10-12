@@ -99,7 +99,7 @@ In this lab, students construct and analyze the closed-loop transfer function of
 MATLAB, Simulink, Control System Toolbox&trade;, Simscape&trade;, Simscape Multibody&trade;, Simscape Driveline&trade;
 
 ## License ##
-The license for this module is available in the [LICENSE.TXT](license.txt) file in this GitHub repository.
+The license for this module is available in the [LICENSE.MD](LICENSE.md) file in this GitHub repository.
 
 ## Educator Resources ##
 * [Featured Courseware](https://www.mathworks.com/academia/courseware/course-materials.html)
