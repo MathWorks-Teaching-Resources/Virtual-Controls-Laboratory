@@ -1,4 +1,4 @@
-# Virtual Controls Laboratory [![View Virtual Controls Laboratory on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/100064-virtual-controls-laboratory)
+# Virtual Controls Laboratory [![View Virtual Hardware and Labs for Controls on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/100064-virtual-hardware-and-labs-for-controls)
 
 **Curriculum Module**  
 _Created with R2021a. Compatible with R2021a and later releases._  
