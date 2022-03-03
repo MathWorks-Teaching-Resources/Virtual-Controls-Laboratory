@@ -1,4 +1,5 @@
-# Virtual Controls Laboratory [![View Virtual Controls Laboratory on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/)  
+# Virtual Controls Laboratory [![View Virtual Hardware and Labs for Controls on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/100064-virtual-hardware-and-labs-for-controls)
+
 **Curriculum Module**  
 _Created with R2021a. Compatible with R2021a and later releases._  
 
@@ -98,7 +99,7 @@ In this lab, students construct and analyze the closed-loop transfer function of
 MATLAB, Simulink, Control System Toolbox&trade;, Simscape&trade;, Simscape Multibody&trade;, Simscape Driveline&trade;
 
 ## License ##
-The license for this module is available in the [LICENSE.TXT](license.txt) file in this GitHub repository.
+The license for this module is available in the [LICENSE.MD](LICENSE.md) file in this GitHub repository.
 
 ## Educator Resources ##
 * [Featured Courseware](https://www.mathworks.com/academia/courseware/course-materials.html)
