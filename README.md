@@ -31,34 +31,34 @@ These scripts assume some familiarity with open/closed loop feedback control, de
     <td width=290>
         <b>Cruise control</b>
         <br><code>CruiseControl.slx</code>
-        <img src = "./SupportingFiles/gifs/cruisecontrol.gif" alt="Vehicle animation" width=250>
+        <img src = "./Images/gifs/cruisecontrol.gif" alt="Vehicle animation" width=250>
     </td>
     <td width=290>
         <b>DC motor</b>
         <br><code>DCMotorControl.slx</code>
-        <img src = "./SupportingFiles/gifs/dcmotor.gif" alt="DC motor animation" width=250>
+        <img src = "./Images/gifs/dcmotor.gif" alt="DC motor animation" width=250>
     </td>
     <td width=290>
         <b>Inverted pendulum</b>
         <br><code>InvertedPendulum.slx</code>
-        <img src = "./SupportingFiles/gifs/invertedpendulum.gif" alt="Inverted pendulum animation" width=250>
+        <img src = "./Images/gifs/invertedpendulum.gif" alt="Inverted pendulum animation" width=250>
     </td>
 </tr>
 <tr>
     <td width=290>
         <b>Rotary pendulum</b>
         <br><code>RotaryPendulum.slx</code>
-        <img src = "./SupportingFiles/gifs/rotarypendulum.gif" alt="Rotary pendulum animation" width=250>
+        <img src = "./Images/gifs/rotarypendulum.gif" alt="Rotary pendulum animation" width=250>
     </td>
     <td width=290>
         <b>Ball and beam</b>
         <br><code>BallAndBeam.slx</code>
-        <img src = "./SupportingFiles/gifs/ballbeam.gif" alt="Ball and beam animation" width=250>
+        <img src = "./Images/gifs/ballbeam.gif" alt="Ball and beam animation" width=250>
     </td>
     <td width=290>
         <b>Ball and plate</b>
         <br><code>BallAndPlate.slx</code>
-        <img src = "./SupportingFiles/gifs/ballplate.gif" alt="Ball and plate animation" width=250>
+        <img src = "./Images/gifs/ballplate.gif" alt="Ball and plate animation" width=250>
     </td>
 </tr>
 </table>
