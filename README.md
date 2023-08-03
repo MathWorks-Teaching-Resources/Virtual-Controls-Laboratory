@@ -31,34 +31,34 @@ These scripts assume some familiarity with open/closed loop feedback control, de
     <td width=290>
         <b>Cruise control</b>
         <br><code>CruiseControl.slx</code>
-        <img src = "./Images/gifs/cruisecontrol.gif" alt="Vehicle animation" width=250>
+        <img src = "https://github.com/MathWorks-Teaching-Resources/Virtual-Controls-Laboratory/assets/88105902/eecd073f-713e-47cf-9ed3-18a42c4dc243.gif" width=250>
     </td>
     <td width=290>
         <b>DC motor</b>
         <br><code>DCMotorControl.slx</code>
-        <img src = "./Images/gifs/dcmotor.gif" alt="DC motor animation" width=250>
+        <img src = "https://github.com/MathWorks-Teaching-Resources/Virtual-Controls-Laboratory/assets/88105902/3d80cd94-2197-4919-8bdc-00db6bfd2594.gif" width=250>
     </td>
     <td width=290>
         <b>Inverted pendulum</b>
         <br><code>InvertedPendulum.slx</code>
-        <img src = "./Images/gifs/invertedpendulum.gif" alt="Inverted pendulum animation" width=250>
+        <img src = "https://github.com/MathWorks-Teaching-Resources/Virtual-Controls-Laboratory/assets/88105902/5de94e47-4118-4e7e-93f4-041d039fa0f9.gif" width=250>
     </td>
 </tr>
 <tr>
     <td width=290>
         <b>Rotary pendulum</b>
         <br><code>RotaryPendulum.slx</code>
-        <img src = "./Images/gifs/rotarypendulum.gif" alt="Rotary pendulum animation" width=250>
+        <img src = "https://github.com/MathWorks-Teaching-Resources/Virtual-Controls-Laboratory/assets/88105902/590c75a8-4fbf-4c27-ab23-a3d490d2a2bd.gif" width=250>
     </td>
     <td width=290>
         <b>Ball and beam</b>
         <br><code>BallAndBeam.slx</code>
-        <img src = "./Images/gifs/ballbeam.gif" alt="Ball and beam animation" width=250>
+        <img src = "https://github.com/MathWorks-Teaching-Resources/Virtual-Controls-Laboratory/assets/88105902/8ced267e-4942-47a4-afd3-497283a73cc3.gif" width=250>
     </td>
     <td width=290>
         <b>Ball and plate</b>
         <br><code>BallAndPlate.slx</code>
-        <img src = "./Images/gifs/ballplate.gif" alt="Ball and plate animation" width=250>
+        <img src = "https://github.com/MathWorks-Teaching-Resources/Virtual-Controls-Laboratory/assets/88105902/1e42ccb4-ea8b-44f8-b312-ae52a52767df.gif" width=250>
     </td>
 </tr>
 </table>
