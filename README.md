@@ -113,7 +113,7 @@ The suggested prework detailed below are complementary interactive online course
 MATLAB, Simulink, Control System Toolbox&trade;, Simscape&trade;, Simscape Multibody&trade;, Simscape Driveline&trade;
 
 ## License ##
-The license for this module is available in the [LICENSE.md](license.md) file in this GitHub repository.
+The license for this module is available in the [LICENSE.md](LICENSE.md) file in this GitHub repository.
 
 ## Educator Resources ##
 * [Transfer Function Analysis of Dynamics Systems Courseware](https://www.mathworks.com/matlabcentral/fileexchange/94635-transfer-function-analysis-of-dynamic-systems?s_tid=srchtitle)
