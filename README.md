@@ -85,10 +85,10 @@ Ensure you have all the required products ([listed below](#H_E850B4FF)) installe
 
 Virtual labs is the idea of taking hardware and converting it into a realistic computer simulation. This allows the user to expand their intuition and test beyond the capabilities of the hardware. Below is a set of virtual mechanisms available in this module to explore:
 
-| [**CruiseControl.slx**](./Models/CruiseControl.slx) | [**DCMotorControl.slx**](./Models/DCMotorControl.slx) | [**InvertedPendulum.slx**](./Models/InvertedPendulum.slx)  |
+| [**CruiseControl.slx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Virtual-Controls-Laboratory&project=VirtualControlsLaboratory.prj&file=CruiseControl.slx) | [**DCMotorControl.slx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Virtual-Controls-Laboratory&project=VirtualControlsLaboratory.prj&file=DCMotorControl.slx) | [**InvertedPendulum.slx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Virtual-Controls-Laboratory&project=VirtualControlsLaboratory.prj&file=InvertedPendulum.slx)  |
 | :-- | :-- | :-- |
 | <img src="Images/image_7.gif" width="171" alt="image_7.gif"> | <img src="Images/image_8.gif" width="171" alt="image_8.gif"> | <img src="Images/image_9.gif" width="171" alt="image_9.gif">  |
-| [**RotaryPendulum.slx**](./Models/RotaryPendulum.slx) | [**BallAndBeam.slx**](./Models/BallAndBeam.slx) | [**BallAndPlate.slx**](./Models/BallAndPlate.slx)  |
+| [**RotaryPendulum.slx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Virtual-Controls-Laboratory&project=VirtualControlsLaboratory.prj&file=RotaryPendulum.slx) | [**BallAndBeam.slx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Virtual-Controls-Laboratory&project=VirtualControlsLaboratory.prj&file=BallAndBeam.slx) | [**BallAndPlate.slx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Virtual-Controls-Laboratory&project=VirtualControlsLaboratory.prj&file=BallAndPlate.slx)  |
 | <img src="Images/image_10.gif" width="171" alt="image_10.gif"> | <img src="Images/image_11.gif" width="171" alt="image_11.gif"> | <img src="Images/image_12.gif" width="171" alt="image_12.gif">  |
 
 # License
