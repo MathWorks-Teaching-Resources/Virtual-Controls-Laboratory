@@ -286,7 +286,7 @@ classdef ProjectStartupApp < matlab.apps.AppBase
             app.Q1.FontSize = 18;
             app.Q1.FontWeight = 'bold';
             app.Q1.Position = [16 141 245 69];
-            app.Q1.Text = 'What describe you best?';
+            app.Q1.Text = 'What describes you best?';
 
             % Create FacultyButton
             app.FacultyButton = uibutton(app.TabReview, 'push');
