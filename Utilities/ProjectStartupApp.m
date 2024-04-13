@@ -251,7 +251,7 @@ classdef ProjectStartupApp < matlab.apps.AppBase
             % Create Image
             app.Image = uiimage(app.WelcomeTab);
             app.Image.Position = [16 141 245 209];
-            app.Image.ImageSource = 'image_0.png';
+            app.Image.ImageSource = 'image_17.png';
 
             % Create TabReview
             app.TabReview = uitab(app.TabGroup);
