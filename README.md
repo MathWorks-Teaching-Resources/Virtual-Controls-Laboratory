@@ -113,8 +113,6 @@ Feel free to explore our other [modular courseware content](https://www.mathwork
 <a name="H_CD56F44E"></a>
 # Educator Resources
 -  [Educator Page](https://www.mathworks.com/academia/educators.html) 
-<a name="H_F10FBF7B"></a>
-# [README](README.mlx)
 <a name="H_0FA5DA18"></a>
 # Contribute 
 
