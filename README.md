@@ -125,6 +125,6 @@ Feel free to explore our other [modular courseware content](https://www.mathwork
 Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks Educator Content Development Team](mailto:onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/Virtual-Controls-Laboratory/blob/release/CONTRIBUTING.md) page on GitHub.
 
 
- *©* Copyright 2023 The MathWorks™, Inc
+ *©* Copyright 2025 The MathWorks, Inc
 
 
