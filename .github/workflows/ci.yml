@@ -19,8 +19,10 @@ jobs:
     strategy: 
       fail-fast: false
       matrix:
-        MATLABVersion: [R2024a,R2024b]
+        MATLABVersion: [R2024b,R2025a]
     runs-on: ubuntu-latest
+    env:
+      LD_PRELOAD: /usr/lib/x86_64-linux-gnu/libstdc++.so.6
     steps:
       # Checks-out your repository
       - uses: actions/checkout@v4
@@ -38,14 +40,7 @@ jobs:
         uses: matlab-actions/setup-matlab@v2
         with:
           release: ${{ matrix.MATLABVersion }}
-          products: MATLAB Simulink Control_System_Toolbox Simscape Simscape_Driveline Simscape_Multibody 
-          # List required products above in the format shown (and uncomment them)
-          # List of product strings:
-          # Simulink
-          # Statistics_and_Machine_Learning_Toolbox
-          # Simulink_Coder
-          # Econometrics_Toolbox
-          # Deep_Learning_Toolbox
+          products: MATLAB Simulink Control_System_Toolbox Simscape Simscape_Driveline Simscape_Multibody
 
 
       # Run all the tests
