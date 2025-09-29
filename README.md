@@ -53,28 +53,28 @@ Ensure you have all the required products (listed below) installed. If you need 
 # Scripts
 
 
-## [**CruiseControl.mlx**](./Scripts/CruiseControl.mlx)
+## [**CruiseControl.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Virtual-Controls-Laboratory&project=VirtualControlsLaboratory.prj&file=Scripts/CruiseControl.mlx)
 |      |      |      |
 | :-- | :-- | :-- |
 |  | **In this script, students will...** <br>  | **Academic disciplines** <br>   |
 | <img src="Images/image_3.png" width="231" alt="image_3.png"> <br>  | • Compare and contrast open\-loop and feedback control. <br> • Implement a simple open\-loop controller in Simulink. <br> • Analyze the performance of an open\-loop controller. <br> • Implement a proportional controller in Simulink. <br> • Analyze the performance of a proportional controller. <br>  | • Mechanical Engineering <br> • Electrical Engineering <br> • Mathematics <br>   |
 |      |      |       |
 
-## [**VehicleModel.mlx**](./Scripts/VehicleModel.mlx)
+## [**VehicleModel.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Virtual-Controls-Laboratory&project=VirtualControlsLaboratory.prj&file=Scripts/VehicleModel.mlx)
 |      |      |      |
 | :-- | :-- | :-- |
 |  | **In this script, students will...** <br>  | **Academic disciplines** <br>   |
 | <img src="Images/image_4.png" width="231" alt="image_4.png"> <br>  | • Derive the transfer function of a first order system. <br> • Compare the transfer function and virtual vehicle responses. <br> • Identify the model parameters for the virtual vehicle. <br>  | • Mechanical Engineering <br> • Electrical Engineering <br> • Mathematics <br>   |
 |      |      |       |
 
-## [**PositionControl.mlx**](./Scripts/PositionControl.mlx)
+## [**PositionControl.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Virtual-Controls-Laboratory&project=VirtualControlsLaboratory.prj&file=Scripts/PositionControl.mlx)
 |      |      |      |
 | :-- | :-- | :-- |
 |  | **In this script, students will...** <br>  | **Academic disciplines** <br>   |
 | <img src="Images/image_5.png" width="231" alt="image_5.png"> <br>  | • Implement a PID controller. <br> • Identify rise time, settling time, overshoot, and peak time. <br> • Explain how changes to PID parameters affect the time\-domain response. <br>  | • Mechanical Engineering <br> • Electrical Engineering <br> • Mathematics <br>   |
 |      |      |       |
 
-## [**PositionAnalysis.mlx**](./Scripts/PositionAnalysis.mlx)
+## [**PositionAnalysis.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Virtual-Controls-Laboratory&project=VirtualControlsLaboratory.prj&file=Scripts/PositionAnalysis.mlx)
 |      |      |      |
 | :-- | :-- | :-- |
 |  | **In this script, students will...** <br>  | **Academic disciplines** <br>   |
