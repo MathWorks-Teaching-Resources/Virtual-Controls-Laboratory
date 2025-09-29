@@ -52,7 +52,6 @@ Ensure you have all the required products (listed below) installed. If you need 
 
 # Scripts
 
- *If you are viewing this in a version of MATLAB prior to R2023b, you can view the learning outcomes for each script* [*here*](https://www.mathworks.com/matlabcentral/fileexchange/100064-virtual-hardware-and-labs-for-controls)
 
 ## [**CruiseControl.mlx**](./Scripts/CruiseControl.mlx)
 |      |      |      |
