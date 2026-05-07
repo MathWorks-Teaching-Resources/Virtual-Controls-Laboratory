@@ -1,5 +1,5 @@
 %  Pre-run script for CruiseControlSoln.mlx
 % ---- Known Issues     -----
-KnownIssuesID = "";
+KnownIssuesID = "MATLAB:run:ShadowedFile";
 % ---- Pre-run commands -----
  
