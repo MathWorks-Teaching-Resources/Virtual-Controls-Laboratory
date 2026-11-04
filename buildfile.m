@@ -25,7 +25,7 @@ function plan = buildfile
 %   See .github/workflows/ci.yml for workflow overview and artifact flow.
 %
 %   FLOW:
-%     1. test-matrix job (parallel): For each release in matrix.Releases [R2024b, R2025a, R2025b]:
+%     1. test-matrix job (parallel): For each release in matrix.Releases [R2026a, R2026b]:
 %        - Runs: buildtool test
 %        - Generates: public/<RELEASE>/CoursewareSmokeTests.mat, FunctionTests.mat
 %        - Uploads: test-results-<RELEASE> artifacts
@@ -81,7 +81,7 @@ if ~isempty(matlab.unittest.TestSuite.fromClass(?FunctionTests))
 end
 
 % TASK 3: report:validate (CI-only, runs after test-matrix merge)
-% Aggregates test results from all MATLAB releases (public/2024b/, public/2025a/, public/2025b/)
+% Aggregates test results from all MATLAB releases (public/R2026a/, public/R2026b/)
 % Validates that tests passed consistently across releases
 % This task is skipped in local builds; only runs in CI after all matrix jobs complete
 % Output: public/index.html and public/CrossReleaseTestResults.mat

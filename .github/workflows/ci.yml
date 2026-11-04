@@ -17,10 +17,10 @@ name: MATLAB CI and Pages
 #   - SoftwareTests/CrossReleaseTestResults.m : Validates all releases passed (gate for badge)
 #
 # ARTIFACT FLOW:
-#   1. test-matrix job (runs for each MATLAB release R2025a, R2025b):
+#   1. test-matrix job (runs for each MATLAB release R2026a, R2026b):
 #      $ buildtool test
-#      -> public/R2025a/CoursewareSmokeTests.mat, FunctionTests.mat, etc.
-#      -> Upload artifacts: test-results-R2025a, test-results-R2025b
+#      -> public/R2026a/CoursewareSmokeTests.mat, FunctionTests.mat, etc.
+#      -> Upload artifacts: R2026a, R2026b
 #
 #   2. report-and-deploy job (runs once, after test-matrix completes):
 #      $ Download and merge all test-results-* artifacts into public/
@@ -76,10 +76,17 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        Releases: [R2025b, R2026a]
+        Releases: [R2026a, R2026b]
     runs-on: ubuntu-latest
     env:
       MATLAB_PRODUCTS: MATLAB Simulink Control_System_Toolbox Simscape Simscape_Driveline Simscape_Multibody
+      # List required products above in the format shown (and uncomment them)
+      # Common products:
+      # Simulink
+      # Simscape
+      # Statistics_and_Machine_Learning_Toolbox
+      # Symbolic_Math_Toolbox
+      # Deep_Learning_Toolbox
       LD_PRELOAD: /usr/lib/x86_64-linux-gnu/libstdc++.so.6
     steps:
       # Checks-out your repository
